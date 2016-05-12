@@ -7,19 +7,8 @@
         xmlns:viewModel="clr-namespace:InterfaceProduct.DesktopApp.ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    
-    <Window.DataContext>s
-        <viewModel:ProductListViewModel />
-    </Window.DataContext>
-    
+
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"></ColumnDefinition>
-        </Grid.ColumnDefinitions>
-        <ListView Margin="5">
-            ItemsSource="{Binding Products}"
-            SelectedItem="{Binding selectedProduct}"
-        </ListView>
     </Grid>
 </Window>
 

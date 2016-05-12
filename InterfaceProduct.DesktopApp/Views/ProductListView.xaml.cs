@@ -12,6 +12,11 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using GalaSoft.MvvmLight.Messaging;
+using InterfaceProduct.Common.Model;
+using InterfaceProduct.Common.Services;
+using InterfaceProduct.DesktopApp.Messages;
+using InterfaceProduct.DesktopApp.ViewModel;
 
 namespace InterfaceProduct.DesktopApp.Views
 {
@@ -23,6 +28,31 @@ namespace InterfaceProduct.DesktopApp.Views
         public ProductListView()
         {
             InitializeComponent();
+
+            Messenger.Default.Register<EditProductMessage>(this, EditProductMessageReceived);
+
+          //  Messenger.Default.Register<SaveProductMessage>(this, SaveProductMessageReceived);
+
         }
+
+        private void EditProductMessageReceived(EditProductMessage msg)
+        {
+            //if (msg.Notification == "ShowEditProductView")
+           // {
+            var editProductView = new EditProductView {DataContext = msg.Product};
+            editProductView.Show();
+       
+
+            // }
+        }
+
+        //private void SaveProductMessageReceived(SaveProductMessage msg)
+        //{
+        //    if (msg.Notification == "ShowEditProductView")
+        //    {
+        //        msg.obj.Close();
+        //    }
+        //}
+
     }
 }

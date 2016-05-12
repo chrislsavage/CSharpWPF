@@ -18,7 +18,7 @@ namespace InterfaceProduct.Menu
         {
             Console.WriteLine("What is the name of the product you would like to remove?");
             string name = Console.ReadLine();
-            _commerceService.Remove(name);
+           //  _commerceService.Remove(name);
         }
 
         public void DisplayName()

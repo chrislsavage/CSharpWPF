@@ -9,6 +9,24 @@
              DataContext="{Binding Source={StaticResource Locator}, Path=ProductListViewModel}"
              d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
-            
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="240"/>
+            <RowDefinition Height ="30"/>
+        </Grid.RowDefinitions>
+
+        <ListView Margin="0,5,10,-22" Grid.Row="1"
+            ItemsSource="{Binding Path=Products}" x:Name="ListView1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Name}" />
+                        <TextBlock Text="{Binding Path=Price}" />
+                        <Button Command="{Binding ElementName=ListView1, Path=DataContext.EditProductCommand}" CommandParameter="{Binding}" Content="Edit Product"></Button>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Grid.Row="0" x:Name="button1" Content="Add Product" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top" Width="75" Command="{Binding AddProductCommand}"/>
     </Grid>
 </UserControl>

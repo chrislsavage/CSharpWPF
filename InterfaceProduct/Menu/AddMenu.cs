@@ -19,7 +19,7 @@ namespace InterfaceProduct.Menu
             Console.WriteLine("What is the price of the product you would like to add?");
             string strPrice = Console.ReadLine();
             decimal price = Convert.ToDecimal(decimal.Parse(strPrice).ToString("N"));
-            _commerceService.Add(new Product { Name = name, Price = price });
+            //_commerceService.Add(new Product { Name = name, Price = price });
             //Read product data (name and price)
             //create product and use the CommerceSerice to add
 

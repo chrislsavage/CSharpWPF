@@ -13,40 +13,30 @@ namespace InterfaceProduct.Common.Services
 
         //Quantity  and GetItem
 
-        public FileInventoryStorageService(List<Product> inventory)
+
+        public void Add(Product product)
         {
-            _inventory = inventory;
+            throw new NotImplementedException();
         }
 
-        public int Quantity(List<Product> _inventory, string name)
+        public int Quantity(string name)
         {
-            return _inventory.Count(s => s.Name == name);
+            throw new NotImplementedException();
         }
 
-        public Product GetItem(List<Product> _inventory, string name)
+        public Product GetItem(string name)
         {
-            return _inventory.FirstOrDefault(s => s.Name == name);
+            throw new NotImplementedException();
         }
 
-        public void Add(List<Product> _inventory, Product item)
+        public void Remove(Product product)
         {
-            _inventory.Add(item);
-
-            //List();
-        }
-
-        public void Remove(List<Product> _inventory, Product item)
-        {
-            _inventory.Remove(item);
-
-            //List();
+            throw new NotImplementedException();
         }
 
         public IEnumerable<Product> GetItems()
         {
-            return _inventory.AsEnumerable();
+            throw new NotImplementedException();
         }
-
-
     }
 }

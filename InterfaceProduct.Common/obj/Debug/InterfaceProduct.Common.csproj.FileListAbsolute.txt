@@ -1,8 +1,5 @@
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.Common\bin\Debug\InterfaceProduct.Common.dll
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.Common\bin\Debug\InterfaceProduct.Common.pdb
-\\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.csprojResolveAssemblyReference.cache
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.dll
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.pdb
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.csprojResolveAssemblyReference.cache
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.dll
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\InterfaceProduct\InterfaceProduct.Common\obj\Debug\InterfaceProduct.Common.csprojResolveAssemblyReference.cache

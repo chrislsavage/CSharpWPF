@@ -9,35 +9,39 @@ namespace InterfaceProduct.Common.Services
     {
        private List<Product> _inventory;
 
-        //Quantity  and GetItem
-
-        public SimpleInventoryStoraService(List<Product> inventory )
+        public SimpleInventoryStoraService( )
         {
-            _inventory = inventory;
+            _inventory = new List<Product>();
+            _inventory.Add(new Product()
+            {
+                Name = "Coke",
+                Price = 2.5
+            });
+            _inventory.Add(new Product()
+            {
+                Name = "Sprite",
+                Price = 2.5
+            });
         }
 
-        public int Quantity(List<Product> _inventory, string name)
+        public int Quantity( string name)
         {
             return _inventory.Count(s => s.Name == name);
         }
 
-        public Product GetItem(List<Product> _inventory, string name)
+        public Product GetItem( string name)
         {
             return _inventory.FirstOrDefault(s => s.Name == name);
         }
 
-        public void Add(List<Product> _inventory, Product item)
+        public void Add( Product item)
         {
             _inventory.Add(item);
-
-            //List();
         }
 
-        public void Remove(List<Product> _inventory, Product item)
+        public void Remove(Product item)
         {
             _inventory.Remove(item);
-
-            //List();
         }
 
         public IEnumerable<Product> GetItems()

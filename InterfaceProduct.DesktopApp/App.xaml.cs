@@ -13,5 +13,9 @@ namespace InterfaceProduct.DesktopApp
     /// </summary>
     public partial class App : Application
     {
+        public App()
+        {
+            
+        }
     }
 }

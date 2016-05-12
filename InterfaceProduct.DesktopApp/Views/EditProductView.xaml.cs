@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Activities.Expressions;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,17 +14,33 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using GalaSoft.MvvmLight.Messaging;
+using InterfaceProduct.Common.Contracts;
+using InterfaceProduct.Common.Model;
+using InterfaceProduct.DesktopApp.Messages;
 
 namespace InterfaceProduct.DesktopApp.Views
 {
     /// <summary>
     /// Interaction logic for EditProductView.xaml
     /// </summary>
-    public partial class EditProductView : UserControl
+    public partial class EditProductView
     {
         public EditProductView()
         {
             InitializeComponent();
+            Messenger.Default.Register<SaveProductMessage>(this, SaveProductMessageReceived);
+
+        }
+
+        private void SaveProductMessageReceived(SaveProductMessage msg)
+        {
+            //if (msg.Notification == "ShowEditProductView")
+            // {
+            var editProductView = new EditProductView();
+            editProductView.Show();
+            editProductView.DataContext = msg.Product;
+            // }
         }
     }
 }

@@ -15,6 +15,7 @@
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using InterfaceProduct.Common.Contracts;
+using InterfaceProduct.Common.Model;
 using InterfaceProduct.Common.Services;
 using Microsoft.Practices.ServiceLocation;
 
@@ -26,8 +27,12 @@ namespace InterfaceProduct.DesktopApp.ViewModel
     /// </summary>
     public class ViewModelLocator
     {
-        private static ICommerceService _commerceService = new SimpleCommerceService(new SimpleInventoryStoraService());
-        public static ProductListViewModel ProductListViewModel { get; } = new ProductListViewModel();
+        //no good, wait
+
+        private static INotificationService notificationService;
+        private static readonly ICommerceService commerceService = new SimpleCommerceService(new SimpleInventoryStoraService());
+        public static ProductListViewModel ProductListViewModel { get; } = new ProductListViewModel(commerceService);
+        public static EditProductViewModel EditProductViewModel { get; } = new EditProductViewModel(commerceService);
 
         /// <summary>
         /// Initializes a new instance of the ViewModelLocator class.

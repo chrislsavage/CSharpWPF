@@ -6,14 +6,3 @@
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct\obj\Debug\InterfaceProduct.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Visual Studio 2015\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.Common.dll
 \\Mac\Home\Documents\Visual Studio 2015\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.Common.pdb
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.exe.config
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\obj\Debug\InterfaceProduct.exe
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\obj\Debug\InterfaceProduct.pdb
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.exe
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.pdb
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.Common.dll
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.Common.pdb
-C:\Users\Chris\Dropbox\Projects\InterfaceProduct\InterfaceProduct\obj\Debug\InterfaceProduct.csprojResolveAssemblyReference.cache
-C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct\bin\Debug\InterfaceProduct.exe.config
-C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct\obj\Debug\InterfaceProduct.exe
-C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct\obj\Debug\InterfaceProduct.pdb

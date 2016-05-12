@@ -5,10 +5,10 @@ namespace InterfaceProduct.Common.Contracts
 {
     public interface IInventoryStoraService
     {
-        void Add(List<Product> inventory, Product product);
-        int Quantity(List<Product> inventory, string name);
-        Product GetItem(List<Product> inventory, string name);
-        void Remove(List<Product> inventory, Product product);
+        void Add(Product product);
+        int Quantity(string name);
+        Product GetItem(string name);
+        void Remove(Product product);
 
         IEnumerable<Product> GetItems();
     }

@@ -1,0 +1,7 @@
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/bin/Debug/InterfaceProduct.Common.dll.mdb
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/bin/Debug/InterfaceProduct.Common.pdb
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/bin/Debug/InterfaceProduct.Common.dll
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/obj/Debug/InterfaceProduct.Common.dll
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/obj/Debug/InterfaceProduct.Common.dll.mdb
+/Users/csavage/Documents/Visual Studio 2015/Projects/InterfaceProduct/InterfaceProduct.Common/obj/Debug/InterfaceProduct.Common.pdb

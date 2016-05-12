@@ -7,8 +7,8 @@ namespace InterfaceProduct
     {
         static void Main(string[] args)
         {
-            CommerceApp commerce = new CommerceApp(new SimpleCommerceService(new SimpleInventoryStoraService(), new SimpleNotify()));
-            commerce.Run();
+            //CommerceApp commerce = new CommerceApp(new SimpleCommerceService(new SimpleInventoryStoraService(), new SimpleNotify()));
+           // commerce.Run();
         }
     }
 }
