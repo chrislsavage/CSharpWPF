@@ -33,3 +33,38 @@
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\App.baml
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\Views\EditProductView.baml
 \\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\Views\ProductListView.baml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\InterfaceProduct.DesktopApp.exe.config
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\InterfaceProduct.DesktopApp.exe
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\InterfaceProduct.DesktopApp.pdb
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\InterfaceProduct.Common.dll
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\InterfaceProduct.Common.pdb
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\MainWindow.g.cs
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\Views\EditProductView.g.cs
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\Views\ProductListView.g.cs
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\App.g.cs
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp_MarkupCompile.cache
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp_MarkupCompile.lref
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\App.baml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\MainWindow.baml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\Views\EditProductView.baml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\Views\ProductListView.baml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp.g.resources
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp.Properties.Resources.resources
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp.csproj.GenerateResource.Cache
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp.exe
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\InterfaceProduct.DesktopApp.pdb

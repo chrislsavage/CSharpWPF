@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-\\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\obj\Debug\
 InterfaceProduct.DesktopApp
 none
 false
 DEBUG;TRACE
-\\mac\home\documents\visual studio 2015\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\App.xaml
+C:\Users\c\Dropbox\Projects\InterfaceProduct\InterfaceProduct.DesktopApp\App.xaml
 3-353681651
 
 19462512803
-71-920203611
+71852741602
 MainWindow.xaml;Views\EditProductView.xaml;Views\ProductListView.xaml;
 
 False
